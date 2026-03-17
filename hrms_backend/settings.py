@@ -147,3 +147,8 @@ LOGGING = {
         "level": "INFO",
     },
 }
+
+
+SWAGGER_SETTINGS = {
+    'USE_SESSION_AUTH': False,   # 🔥 IMPORTANT
+}
